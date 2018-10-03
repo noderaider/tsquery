@@ -1,5 +1,5 @@
 {
-  "name": "ts-monad",
+  "name": "@raider/tsquery",
   "version": "0.1.0",
   "description": "TypeScript monads for run-time type safety.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noderaider/ts-monad.git"
+    "url": "git+https://github.com/noderaider/tsquery.git"
   },
   "keywords": [
     "TypeScript",
@@ -20,9 +20,9 @@
   "author": "Cole Chamberlain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noderaider/ts-monad/issues"
+    "url": "https://github.com/noderaider/tsquery/issues"
   },
-  "homepage": "https://github.com/noderaider/ts-monad#readme",
+  "homepage": "https://github.com/noderaider/tsquery#readme",
   "devDependencies": {
     "jest": "^23.6.0",
     "ts-jest": "^23.10.3",
